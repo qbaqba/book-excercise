@@ -4,3 +4,5 @@ It usees HTML5 and CSS3.
 
 ## Właściwości
 * Lista właściwości
+
+License: MIT
